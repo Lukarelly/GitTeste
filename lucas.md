@@ -12,3 +12,8 @@
 <input type = "color">
 <input type = "email">
 - qualquer coisa
+<input type = "number">
+<input type = "file">
+
+<input type = "date">
+<input type = "month">
